@@ -1,1 +1,0 @@
-const ApiKEY = '36fe2da5ada3b5cb83a3f78bd49e1213'
