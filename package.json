@@ -1,0 +1,19 @@
+{
+  "name": "movapp",
+  "version": "1.0.0",
+  "description": "An application based in a platform about movies, series and more.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoCam7/MovApp.git"
+  },
+  "author": "@enzocam7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoCam7/MovApp/issues"
+  },
+  "homepage": "https://github.com/EnzoCam7/MovApp#readme"
+}
